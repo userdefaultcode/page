@@ -518,7 +518,7 @@ header .larguraMaxContainer nav .nav-list li {
       -webkit-box-direction: normal;
           -ms-flex-direction: column;
               flex-direction: column;
-      -webkit-box-align: center;
+      -webkit-box-align: left;
           -ms-flex-align: center;
               align-items: center;
       padding-left: 0px;
