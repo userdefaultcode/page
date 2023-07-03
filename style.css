@@ -173,7 +173,7 @@ header .larguraMaxContainer nav .nav-list li {
             transform: rotate(45deg) translate(-5px, -7px);
   }
   
-  @media screen and (max-width: 1024px) {
+  @media screen and (max-width: 600px) {
     body {
       overflow-x: hidden;
     }
