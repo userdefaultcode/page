@@ -43,7 +43,7 @@ h6 {
 }
 
 header .larguraMaxContainer nav {
-    background-color:#181818;
+    background-color:#4202a8;
     padding: 0px 50px;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -121,7 +121,7 @@ header .larguraMaxContainer nav .nav-list li {
   
   .mobile-menu div {
     width: 32px;
-    height: 20px;
+    height: 2px;
     background-color: #fefbfb;
     margin: 8px;
     -webkit-transition: 0.3s;
@@ -238,7 +238,7 @@ header .larguraMaxContainer nav .nav-list li {
 
 
   main #apresentacaoPortfolio {
-    background-color: #181818;
+    background-color: #cdb7f0;
     position: relative;
   }
   
@@ -288,8 +288,8 @@ header .larguraMaxContainer nav .nav-list li {
   }
   
   main #apresentacaoPortfolio .larguraMaxContainer #apresentacaoTexto h2 {
-    color: #fefbfb;
-    font-size: 1.1rem;
+    color: #6342f7;
+    font-size: 1.2rem;
     font-weight: 400;
   }
   
@@ -299,7 +299,7 @@ header .larguraMaxContainer nav .nav-list li {
   }
   
   main #apresentacaoPortfolio .larguraMaxContainer #apresentacaoTexto a {
-    background-color: #6610f2;
+    background-color: #cdb7f0;
     color: #fff;
     padding: 15px 25px;
     max-width: 250px;
@@ -324,7 +324,7 @@ header .larguraMaxContainer nav .nav-list li {
   
   main #apresentacaoPortfolio .larguraMaxContainer #apresentacaoTexto a:hover {
     cursor: pointer;
-    background-color: #5429cf;
+    background-color: #cdb7f0;
   }
   
   main #apresentacaoPortfolio .larguraMaxContainer #apresentacaoFoto {
@@ -392,7 +392,7 @@ header .larguraMaxContainer nav .nav-list li {
   }
   
   main #sobre {
-    background-color: #181818;
+    background-color: #cdb7f0;
   }
   
   main #sobre .larguraMaxContainer {
@@ -527,14 +527,14 @@ header .larguraMaxContainer nav .nav-list li {
   
   main #sobre .larguraMaxContainer #sobreTexto h2 {
     padding-bottom: 20px;
-    color: #fefbfb;
+    color: #6610f2;
     font-size: 32px;
     font-weight: 500;
   }
   
   main #sobre .larguraMaxContainer #sobreTexto p {
     line-height: 30px;
-    color: #f9f9f9;
+    color: #6610f2;
   }
   
   main #sobre .larguraMaxContainer #sobreTexto p:nth-child(2) {
@@ -639,7 +639,7 @@ header .larguraMaxContainer nav .nav-list li {
     position: relative;
     -webkit-transition: 0.8s all ease;
     transition: 0.8s all ease;
-    border: 3px solid #202020;
+    border: 3px solid #080a74;
   }
   
   main #projetos .larguraMaxContainer article > div:hover {
@@ -756,7 +756,7 @@ header .larguraMaxContainer nav .nav-list li {
   
   main #projetos .larguraMaxContainer article > div .linguagensProjeto span {
     padding: 5px;
-    background-color: #181818;
+    background-color: #cdb7f0;
     border-radius: 5px;
     color: #fefbfb;
     margin-bottom: 5px;
@@ -770,7 +770,7 @@ header .larguraMaxContainer nav .nav-list li {
   main #servicos {
     padding: 100px 50px;
     text-align: center;
-    background-color: #202020;
+    background-color: #cdb7f0;
   }
   
   @media screen and (max-width: 1024px) {
@@ -781,7 +781,7 @@ header .larguraMaxContainer nav .nav-list li {
   
   main #servicos .larguraMaxContainer h2 {
     padding-bottom: 20px;
-    color: #fefbfb;
+    color: #6610f2;
     font-size: 32px;
     font-weight: 500;
   }
@@ -851,7 +851,7 @@ header .larguraMaxContainer nav .nav-list li {
   
   main #conhecimentos {
     padding: 100px 50px;
-    background-color: #181818;
+    background-color: #cdb7f0;
   }
   
   @media screen and (max-width: 1024px) {
@@ -908,7 +908,7 @@ header .larguraMaxContainer nav .nav-list li {
         -ms-flex-positive: 1;
             flex-grow: 1;
     height: 150px;
-    background-color: #202020;
+    background-color: #cdb7f0;
     border-radius: 10px;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -935,7 +935,7 @@ header .larguraMaxContainer nav .nav-list li {
     left: 50%;
     -webkit-transform: translate(-50%, 0%);
             transform: translate(-50%, 0%);
-    background-color: #202020;
+    background-color: #5429cf;
     padding: 5px;
     height: 30px;
     width: 125px;
@@ -992,14 +992,14 @@ header .larguraMaxContainer nav .nav-list li {
   
   main #conhecimentos .larguraMaxContainer > div #texto-conhecimentos h2 {
     margin-bottom: 30px;
-    color: #fefbfb;
+    color: #5429cf;
     font-size: 32px;
   }
   
   main #conhecimentos .larguraMaxContainer > div #texto-conhecimentos p {
     max-width: 500px;
     line-height: 32px;
-    color: #f9f9f9;
+    color: #5429cf;
   }
   .scrollTop {
     position: fixed;
