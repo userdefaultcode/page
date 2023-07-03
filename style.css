@@ -121,7 +121,7 @@ header .larguraMaxContainer nav .nav-list li {
   
   .mobile-menu div {
     width: 32px;
-    height: 2px;
+    height: 20px;
     background-color: #fefbfb;
     margin: 8px;
     -webkit-transition: 0.3s;
