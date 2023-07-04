@@ -288,7 +288,7 @@ header .larguraMaxContainer nav .nav-list li {
   }
   
   main #apresentacaoPortfolio .larguraMaxContainer #apresentacaoTexto h2 {
-    color: #6342f7;
+    color: #000000;
     font-size: 1.2rem;
     font-weight: 400;
   }
@@ -419,7 +419,7 @@ header .larguraMaxContainer nav .nav-list li {
   
   main #sobre .larguraMaxContainer #sobreFoto {
     width: 50%;
-    padding-right: 30px;
+    padding-right: 50px;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -534,7 +534,7 @@ header .larguraMaxContainer nav .nav-list li {
   
   main #sobre .larguraMaxContainer #sobreTexto p {
     line-height: 30px;
-    color: #6610f2;
+    color: #000000;
   }
   
   main #sobre .larguraMaxContainer #sobreTexto p:nth-child(2) {
@@ -589,7 +589,7 @@ header .larguraMaxContainer nav .nav-list li {
       max-width: 100%;
     }
     main #sobre .larguraMaxContainer #sobreTexto div a:nth-child(1) {
-      margin-right: 0px;
+      margin-right: 7px;
     }
   }
   
@@ -999,7 +999,7 @@ header .larguraMaxContainer nav .nav-list li {
   main #conhecimentos .larguraMaxContainer > div #texto-conhecimentos p {
     max-width: 500px;
     line-height: 32px;
-    color: #5429cf;
+    color: #000000;
   }
   .scrollTop {
     position: fixed;
